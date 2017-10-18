@@ -5,7 +5,7 @@
 ```sh
 npm install yarn -g
 yarn
-yarn run dev or
+yarn run dev to serve the project at localhost:8080 or
 yarn build
 ```
 ## Brief description
