@@ -1,4 +1,4 @@
-# webpack-code-injection [![Build Status](https://travis-ci.org/globalroo/webpack-code-injection.svg?branch=master)](https://travis-ci.org/globalroo/webpack-code-injection)[![codecov](https://codecov.io/gh/globalroo/webpack-code-injection/branch/master/graph/badge.svg)](https://codecov.io/gh/globalroo/webpack-code-injection)[![Dependency Status](https://dependencyci.com/github/globalroo/webpack-code-injection/badge)](https://dependencyci.com/github/globalroo/webpack-code-injection)[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
+# webpack-code-injection [![Build Status](https://travis-ci.org/globalroo/webpack-code-injection.svg?branch=master)](https://travis-ci.org/globalroo/webpack-code-injection)(https://codecov.io/gh/globalroo/webpack-code-injection)[![Dependency Status](https://dependencyci.com/github/globalroo/webpack-code-injection/badge)](https://dependencyci.com/github/globalroo/webpack-code-injection)[![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 
 > Webpack code injection
 
