@@ -70,6 +70,7 @@ componentDidMount() {
 		messagingSenderId: "144750278413"
 	};
 	firebase.initializeApp(config);
+}
 ```
 
 ### Webpack loader options
