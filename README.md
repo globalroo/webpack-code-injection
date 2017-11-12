@@ -85,7 +85,7 @@ componentDidMount() {
 }
 ```
 
-The comments will be replaced with code, or removed at build time.
+The comments will be replaced with code, or removed at build time depending on file availability in the configured integration.
 
 The built project will contain the composite code from the plugin / customised code and vanilla application.
 
